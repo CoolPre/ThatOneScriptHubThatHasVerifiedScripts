@@ -1,0 +1,2 @@
+local player = game.Players.LocalPlayer
+player:Kick("Banned:You Have Been Banned For Using A Illegal Script The Roblox Hacker Team Will Fix This Soon... soon you can play the game again! Thank You For Reading This!")
